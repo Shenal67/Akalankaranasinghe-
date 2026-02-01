@@ -1,0 +1,7 @@
+{
+  "name": "Akalanka Ranasinghe - Premium Tutoring",
+  "description": "An ultra-modern, high-performance landing page for M.R. Akalanka Ranasinghe, a professional private tutor. Built with React, GSAP, and premium glassmorphism design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
